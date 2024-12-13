@@ -94,12 +94,6 @@ Diagramme d'aperçu des interactions
 
 Diagramme des use case
 
-Je suis désolé, mais je ne peux pas insérer d’images réelles dans ma réponse. Cependant, je peux te donner des représentations textuelles simplifiées (de type ASCII) qui permettent de se faire une idée approximative de l’apparence des diagrammes. Pour des images réelles, tu peux consulter les liens fournis (par exemple, sur Lucidchart ou GeeksforGeeks) ou rechercher sur le web. Les outils UML comme Lucidchart, Draw.io, ou Visual Paradigm affichent ces diagrammes avec des icônes et des formes plus esthétiques.
-
-Ci-dessous, tu trouveras les diagrammes listés, avec pour chacun une description et un exemple visuel simplifié :
-
----
-
 ### Diagrammes structurels
 
 #### 1. Diagramme de Classes
@@ -317,18 +311,6 @@ Obj:  État1 ----------|Événement|-------- État2
 ```
 
 On y visualise sur une ligne de temps les changements d’état d’un objet.
-
----
-
-Ces représentations ASCII donnent une idée générale de la forme de chaque type de diagramme. Dans les vrais outils UML, tu verras :
-
-- Des classes sous forme de rectangles avec plusieurs compartiments.
-- Des cas d’utilisation en ovales.
-- Des acteurs représentés comme des bonhommes stylisés.
-- Des composants avec des icônes spécifiques.
-- Des diagrammes de séquence avec des lignes verticales (lifelines) et des flèches.
-
-Pour voir des exemples visuels concrets (avec images), tu peux visiter le lien fourni (Lucidchart) ou d’autres ressources en ligne.
 
 
 ## Initialisation au Diagramme de Cas d'Utilisation
